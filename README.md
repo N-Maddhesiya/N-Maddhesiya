@@ -9,4 +9,4 @@ Full-Stack Developer | MERN Stack | C++ | DSA
 - [VarnGuard](link) — Browser extension for privacy protection
 - [ClickCart](link) — E-commerce MERN web
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=N-Maddheshiya&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=N-Maddhesiya&show_icons=true)
