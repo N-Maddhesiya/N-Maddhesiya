@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Nileshwar 👋
+Full-Stack Developer | MERN Stack | C++ | DSA
+- 🔭 Working on: VarnGuard (browser extension), DocuQuery (AI for PDFs)
+- 🌱 Learning: System Design & Advanced C++
+- 📫 Contact: your.email@example.com
+- ⚡ Fun: I build tools to make web privacy & learning easier
 
-<!--
-**N-Maddhesiya/N-Maddhesiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
+- [VarnGuard](link) — Browser extension for privacy protection
+- [ClickCart](link) — E-commerce MERN app
+- [LeetCodeDailySolutions](link) — DSA practice
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=N-Maddheshiya&show_icons=true)
