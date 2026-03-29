@@ -2,7 +2,7 @@
 Full-Stack Developer | MERN Stack | C++ | DSA
 - 🔭 Working on: VarnGuard (browser extension), DocuQuery (AI for PDFs)
 - 🌱 Learning: System Design & Advanced C++
-- 📫 Contact: nileshwarmaddhesiya982@example.com
+- 📫 Contact: nileshwarmaddhesiya982@gmail.com
 - ⚡ Fun: I build tools to make web privacy & learning easier
 
 ## Projects
