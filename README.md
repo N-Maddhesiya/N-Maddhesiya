@@ -5,8 +5,6 @@
 Passionate about building scalable systems, solving complex problems, and writing clean, efficient code. Currently focused on Data Structures & Algorithms, Distributed Systems, and full-stack development.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nileshwar-maddhesiya-112147295/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/N___maddhesiya/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-4★-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/abit231550046)
 [![GitHub](https://img.shields.io/badge/GitHub-N--Maddhesiya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N-Maddhesiya)
 
 ---
