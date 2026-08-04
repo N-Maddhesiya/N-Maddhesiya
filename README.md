@@ -40,10 +40,10 @@ Passionate about building scalable systems, solving complex problems, and writin
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
 | **Scalable URL Shortener & Analytics** | Distributed URL shortener with Redis caching, rate limiting, and analytics. Reduced redirect latency by ~60%. Designed for horizontal scaling. | Node.js, Express, PostgreSQL, Redis, Docker, AWS | [GitHub](https://github.com/N-Maddhesiya/URL-Shortener) |
+| **ClicKart** | E-commerce Website with Payment System | React.js, Node.js, Express.js, MongoDB | [GitHub](https://github.com/N-Maddhesiya/ClickCart) |
 | **Real-Time Collaborative Code Editor** | Multi-user real-time editor with concurrent editing, live cursors, JWT auth, and Redis Pub/Sub. Tested with 50+ concurrent users. | MERN, Socket.io, Redis, JWT | [GitHub](https://github.com/N-Maddhesiya/Real-Time-Collaborative-Code-Editor) |
+| **FitConnect** | Connecting gym owners with certified trainers through searchable professional profiles and secure authentication | React.js, Node.js, Express.js, MongoDB | [GitHub](https://github.com/N-Maddhesiya/FitConnect) |
 | **ML-Powered Recommendation Engine** | Hybrid recommendation system (Collaborative + Content-based) with sub-100ms inference using FastAPI + Redis caching. | Python, scikit-learn, FastAPI, React, PostgreSQL, Redis | [GitHub](https://github.com/N-Maddhesiya/ML-Powered-Product-Recommendation-Engine) |
-| **VarnGuard** | Browser extension focused on web privacy protection | JavaScript | [GitHub](link) |
-| **DocuQuery** | AI-powered tool for querying PDF documents | Python, AI/ML | [GitHub](link) |
 
 ---
 
